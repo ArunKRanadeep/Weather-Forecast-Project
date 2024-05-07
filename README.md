@@ -1,5 +1,7 @@
 **Real-Time Weather App**
+
 **Description**
+
 This Python application retrieves and displays real-time weather data based on user location detection. It utilizes APIs to fetch the current weather conditions and presents them in a user-friendly interface.
 
 **Features**
